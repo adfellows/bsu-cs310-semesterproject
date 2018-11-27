@@ -8,6 +8,16 @@
 </head>
 <body>
 <?php include 'header.php';?>
+
+<header>
+    <ul id="top">
+        <p id="logo"><a href="#" id="FNM">FNM</a><a href="#" id="N">News</a></p>
+        <p id="searchbar"><input type="text" placeholder="search..."></p>
+        <p id="tab1"><a href="">Charts</a></p>
+        <p id="tab2"><a href="newreleases.html">New Releases</a></p>
+        <p id="tab3"><a href="newspage.html">News</a></p>
+    </ul>
+</header>
 <main>
     <br>
     <div id="newrlese">
@@ -30,61 +40,61 @@
                 <td>Sept 14</td>
                 <td>East Atlanta Love Letter</td>
                 <td>6lack</td>
-                <td class ="myclass"><img src="images/6lack.jpg" alt="6lack Album" height =100 width = 100></td>
+                <td class ="myclass"><img src="6lack.jpg" alt="6lack Album" height =100 width = 100></td>
             </tr>
             <tr>
                 <td>Sept 14</td>
                 <td>Room 25</td>
                 <td>Noname</td>
-                <td class ="myclass"><img src="images/noname.jpg" alt="noname Album" height =100 width = 100></td>
+                <td class ="myclass"><img src="noname.jpg" alt="noname Album" height =100 width = 100></td>
             </tr>
             <tr>
                 <td>Sept 7</td>
                 <td>I WANT TO DIE IN NEW ORLEANS</td>
                 <td>$uicide Boy$</td>
-                <td class ="myclass"><img src="images/suicideboys.jpg" alt="suicideboys Album" height =100 width = 100></td>
+                <td class ="myclass"><img src="suicideboys.jpg" alt="suicideboys Album" height =100 width = 100></td>
             </tr>
             <tr>
                 <td>Sept 7</td>
                 <td>QUARTERTHING</td>
                 <td>Joey Purp</td>
-                <td class ="myclass"><img src="images/joepurp.jpg" alt="joe purp Album" height =100 width = 100></td>
+                <td class ="myclass"><img src="joepurp.jpg" alt="joe purp Album" height =100 width = 100></td>
             </tr>
             <tr>
                 <td>Sept 7</td>
                 <td>RUNT</td>
                 <td>slowthai</td>
-                <td class ="myclass"><img src="images/slowthai.jpg" alt="slowthai Album" height =100 width = 100></td>
+                <td class ="myclass"><img src="slowthai.jpg" alt="slowthai Album" height =100 width = 100></td>
             </tr>
             <tr>
                 <td>Sept 7</td>
                 <td>Guess What?</td>
                 <td>G Perico</td>
-                <td class ="myclass"><img src="images/gperico.jpg" alt="gperico Album" height =100 width = 100></td>
+                <td class ="myclass"><img src="gperico.jpg" alt="gperico Album" height =100 width = 100></td>
             </tr>
             <tr>
                 <td>Sept 7</td>
                 <td>YBN: The Mixtape</td>
                 <td>YBN</td>
-                <td class ="myclass"><img src="images/ybn.jpg" alt="ybn Album"height =100 width = 100></td>
+                <td class ="myclass"><img src="ybn.jpg" alt="ybn Album"height =100 width = 100></td>
             </tr>
             <tr>
                 <td>Aug 31</td>
                 <td>Return of The Trill</td>
                 <td>Bun B</td>
-                <td class ="myclass"><img src="images/bunb.jpg" alt="bunb Album" height =100 width = 100 ></td>
+                <td class ="myclass"><img src="bunb.jpg" alt="bunb Album" height =100 width = 100 ></td>
             </tr>
             <tr>
                 <td>Aug 31</td>
                 <td>Kamikaze</td>
                 <td>Eminem</td>
-                <td class ="myclass"><img src="images/eminem.jpg" alt="eminem Album" height =100 width = 100></td>
+                <td class ="myclass"><img src="eminem.jpg" alt="eminem Album" height =100 width = 100></td>
             <tr>
             <tr>
                 <td>Aug 31</td>
                 <td>Fire In The Clouds</td>
                 <td>Curren$y</td>
-                <td class ="myclass"><img src="images/currensy.jpg" alt="currensy Album" height =100 width = 100></td>
+                <td class ="myclass"><img src="currensy.jpg" alt="currensy Album" height =100 width = 100></td>
             </tr>
         </table>
         <br>
@@ -93,6 +103,7 @@
     <br>
 </main>
 <footer>
+
 </footer>
 </body>
 </html>
