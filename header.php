@@ -1,32 +1,24 @@
-<link href = "homepage.css">
+<link rel="stylesheet" href="homepage.css" type="text/css">
 <header>
-<div class="topHeaderRow">
-            <div class="container">
-                <div class="pull-right">
-                    <ul class="list-inline">
-                        <li><a href="#"><span class="glyphicon glyphicon-log-out"></span> Logout</a></li>
-                        <li><a href="#"><span class="glyphicon glyphicon-user"></span> Profile</a></li>
-                        <li><a href="#"><span class="glyphicon glyphicon-star"></span> Favorites</a></li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-      <ul id="top">
-          <p id="logo"><a href="homepage.php" id="FNM">FNM</a><a href="homepage.php" id="N">News</a></p>
-          <input type="search" id="userInput" onsearch="searchFunction">
-          <script>
+    <ul id="top">
+        <p id="logo"><a href="homepage.php" id="FNM">FNM</a><a href="homepage.php" id="N">News</a></p>
+        <script>
             function searchFunction() {
                var x = document.getElementById("userInput");
                document.getElementById("demo").innerHTML = "You are searching for: " + x.value;}
-            </script>
-          <p id="tab1"><a href="topcharts.html">Charts</a></p>
-          <p id="tab2"><a href="newreleases.html">New Releases</a></p>
-          <p id="tab3"><a href="newspage.html">News</a></p>
-      </ul>
-      <form id="userInput" role="search">
-                        <div>
-                            <input type="text" class="form-control" placeholder="Search">
-                        </div>
-                        <button type="submit" class="btn btn-primary">Submit</button>
-                    </form>
-  </header
+
+        </script>
+        <p class="tab" id="tab1"><a href="topcharts.php">Charts</a></p>
+        <p class="tab" id="tab2"><a href="newreleases.php">New Releases</a></p>
+        <p class="tab" id="tab3"><a href="newspage.php">News</a></p>
+        <p class="tab" id="tab4"><a href="#">Logout</a></p>
+        <p class="tab" id="tab5"><a href="#">Profile</a></p>
+        <p class="tab" id="tab6"><a href="#">Favorites</a></p>
+    </ul>
+    <br>
+    <br>
+    <form id="userInput" role="search">
+            <input type="text" class="form-control" placeholder="Search">
+            <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+</header
