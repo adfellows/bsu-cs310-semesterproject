@@ -9,21 +9,12 @@
 <body>
 <?php include 'header.php';?>
 
-<header>
-    <ul id="top">
-        <p id="logo"><a href="#" id="FNM">FNM</a><a href="#" id="N">News</a></p>
-        <p id="searchbar"><input type="text" placeholder="search..."></p>
-        <p id="tab1"><a href="">Charts</a></p>
-        <p id="tab2"><a href="newreleases.html">New Releases</a></p>
-        <p id="tab3"><a href="newspage.html">News</a></p>
-    </ul>
-</header>
 <main>
     <br>
     <div id="newrlese">
         <h1>Newest Videos</h1>
         <h2><a href="#">Phora featuring Trippie Redd in music video</a></h2>
-        <a href="#"><img src="images/phora.jpg" alt="Phora Music Video"></a>
+        <a href="#"><img src="phora.jpg" alt="Phora Music Video"></a>
         <p id="description"> Underground rapper Phora features Trippie Redd in arguably his worst song ever. But... the visuals are nice, I guess? Maybe if a college student made them. <a href="#" id="more">(more...)</a></p>
         <br>
     </div>
