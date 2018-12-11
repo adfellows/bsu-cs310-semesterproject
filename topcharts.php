@@ -1,16 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="utf-8">
-<title>Fresh New Music News</title>
-<link rel="stylesheet" href="Charts.css" type="text/css">
-<link href="http://fonts.googleapis.com/css?family=Merriweather" rel="stylesheet">
+    <meta charset="utf-8">
+    <title>Fresh New Music News</title>
+    <link rel="stylesheet" href="Charts.css" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Merriweather" rel="stylesheet">
 </head>
 <body>
-<?php include 'header.php';?>
-<main>
-    <br>
-    <div id="Top25">
+    <?php include 'header.php';?>
+    <main>
+        <br>
+        <div id="Top25">
         <h1>Top 25 This Week</h1>
         <table id="list">
             <tr>
@@ -144,8 +144,8 @@
             </tr>
         </table>
         <br>
-    </div>
-</main>
+        </div>
+    </main>
 <footer>
 </footer>
 </body>
