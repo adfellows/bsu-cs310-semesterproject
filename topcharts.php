@@ -10,8 +10,8 @@
 <?php include 'header.php';?>
 <main>
     <br>
-    <div id="Top20">
-        <h1>Top 20 This Week</h1>
+    <div id="Top25">
+        <h1>Top 25 This Week</h1>
         <table id="list">
             <tr>
                 <th>Song</th>
