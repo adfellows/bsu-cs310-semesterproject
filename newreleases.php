@@ -46,13 +46,13 @@
                 <td class ="myclass"><img src="suicideboys.jpg" alt="suicideboys Album" height =100 width = 100></td>
             </tr>
             <tr>
-                <td>Nov 23</td>
+                <td>Nov 28</td>
                 <td>QUARTERTHING</td>
                 <td>Joey Purp</td>
                 <td class ="myclass"><img src="joepurp.jpg" alt="joe purp Album" height =100 width = 100></td>
             </tr>
             <tr>
-                <td>Nov 16</td>
+                <td>Nov 23</td>
                 <td>RUNT</td>
                 <td>slowthai</td>
                 <td class ="myclass"><img src="slowthai.jpg" alt="slowthai Album" height =100 width = 100></td>
