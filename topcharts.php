@@ -197,6 +197,7 @@
             </tr>
         </table>
         <br>
+        <button type="button" onclick="document.getElementById('list').style.fontSize='35px'">Too Small?</button>
         </div>
     </main>
 <footer>
