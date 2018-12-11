@@ -28,61 +28,61 @@
                 <th></th>
             </tr>
             <tr>
-                <td>Sept 14</td>
+                <td>Dec 7</td>
                 <td>East Atlanta Love Letter</td>
                 <td>6lack</td>
                 <td class ="myclass"><img src="6lack.jpg" alt="6lack Album" height =100 width = 100></td>
             </tr>
             <tr>
-                <td>Sept 14</td>
+                <td>Dec 1</td>
                 <td>Room 25</td>
                 <td>Noname</td>
                 <td class ="myclass"><img src="noname.jpg" alt="noname Album" height =100 width = 100></td>
             </tr>
             <tr>
-                <td>Sept 7</td>
+                <td>Nov 30</td>
                 <td>I WANT TO DIE IN NEW ORLEANS</td>
                 <td>$uicide Boy$</td>
                 <td class ="myclass"><img src="suicideboys.jpg" alt="suicideboys Album" height =100 width = 100></td>
             </tr>
             <tr>
-                <td>Sept 7</td>
+                <td>Nov 23</td>
                 <td>QUARTERTHING</td>
                 <td>Joey Purp</td>
                 <td class ="myclass"><img src="joepurp.jpg" alt="joe purp Album" height =100 width = 100></td>
             </tr>
             <tr>
-                <td>Sept 7</td>
+                <td>Nov 16</td>
                 <td>RUNT</td>
                 <td>slowthai</td>
                 <td class ="myclass"><img src="slowthai.jpg" alt="slowthai Album" height =100 width = 100></td>
             </tr>
             <tr>
-                <td>Sept 7</td>
+                <td>Nov 15</td>
                 <td>Guess What?</td>
                 <td>G Perico</td>
                 <td class ="myclass"><img src="gperico.jpg" alt="gperico Album" height =100 width = 100></td>
             </tr>
             <tr>
-                <td>Sept 7</td>
+                <td>Nov 15</td>
                 <td>YBN: The Mixtape</td>
                 <td>YBN</td>
                 <td class ="myclass"><img src="ybn.jpg" alt="ybn Album"height =100 width = 100></td>
             </tr>
             <tr>
-                <td>Aug 31</td>
+                <td>Nov 12</td>
                 <td>Return of The Trill</td>
                 <td>Bun B</td>
                 <td class ="myclass"><img src="bunb.jpg" alt="bunb Album" height =100 width = 100 ></td>
             </tr>
             <tr>
-                <td>Aug 31</td>
+                <td>Oct 31</td>
                 <td>Kamikaze</td>
                 <td>Eminem</td>
                 <td class ="myclass"><img src="eminem.jpg" alt="eminem Album" height =100 width = 100></td>
             <tr>
             <tr>
-                <td>Aug 31</td>
+                <td>Oct 31</td>
                 <td>Fire In The Clouds</td>
                 <td>Curren$y</td>
                 <td class ="myclass"><img src="currensy.jpg" alt="currensy Album" height =100 width = 100></td>
